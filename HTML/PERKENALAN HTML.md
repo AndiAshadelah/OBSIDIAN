@@ -73,17 +73,29 @@ digunakan untuk membuat baris baru dalam sebuah elemen teks atau konten HTML.
  Align adalah atribut yang menentukan perataan teks.
  
  CONTOH: 
- <html>
+```html 
+<!DOCTYPE html>
+
+<html>
     <head>
-     <title>adel uhuy</title>
+     <title>ADEL UHUuY</title>
     </head>
     <body>
-    <p align="left"> Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
-    <p align="right"> Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
-    <p align="center"> Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
-    <p align="justhify"> Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
+       <p align="left">
+                Sultan Hasanuddin yang semakin terdesak akhirnya bersedia berunding dan menghasilkan Perjanjian Bongaya (18 November 1667) yang merugikan Gowa. Dengan demikian, Sultan Hasanuddin mendapatkan julukan "Ayam Jantan dari Timur" karena kegigihan dan usaha kerasnya dalam menghadapi VOC.
+            </p>
+            <p align="right">
+                Sultan Hasanuddin yang semakin terdesak akhirnya bersedia berunding dan menghasilkan Perjanjian Bongaya (18 November 1667) yang merugikan Gowa. Dengan demikian, Sultan Hasanuddin mendapatkan julukan "Ayam Jantan dari Timur" karena kegigihan dan usaha kerasnya dalam menghadapi VOC.
+            </p>
+            <p align="center">
+                Sultan Hasanuddin yang semakin terdesak akhirnya bersedia berunding dan menghasilkan Perjanjian Bongaya (18 November 1667) yang merugikan Gowa. Dengan demikian, Sultan Hasanuddin mendapatkan julukan "Ayam Jantan dari Timur" karena kegigihan dan usaha kerasnya dalam menghadapi VOC.
+            </p>
+            <p align="justify">
+                Sultan Hasanuddin yang semakin terdesak akhirnya bersedia berunding dan menghasilkan Perjanjian Bongaya (18 November 1667) yang merugikan Gowa. Dengan demikian, Sultan Hasanuddin mendapatkan julukan "Ayam Jantan dari Timur" karena kegigihan dan usaha kerasnya dalam menghadapi VOC.
+            </p>
     </body>
 </html>
+```
 
 
 ### `<p align="left">` 
