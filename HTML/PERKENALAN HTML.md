@@ -72,23 +72,19 @@ digunakan untuk membuat baris baru dalam sebuah elemen teks atau konten HTML.
 ## Align
  Align adalah atribut yang menentukan perataan teks.
  
- ```html
+ CONTOH: 
  <html>
     <head>
      <title>adel uhuy</title>
     </head>
     <body>
-    <p align="left">
-Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
-    <p align="right">
-Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
-    <p align="center">
-Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
-    <p align="justhify">
-Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
+    <p align="left"> Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
+    <p align="right"> Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
+    <p align="center"> Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
+    <p align="justhify"> Lorem ipsum is a placeholder text commonly used in publishing and graphic design to demonstrate the visual form of a document or a typeface without relying on meaningful content </p>
     </body>
 </html>
-```
+
 
 ### `<p align="left">` 
 untuk membuat teks rata kiri
