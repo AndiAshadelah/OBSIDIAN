@@ -67,7 +67,8 @@ berfungsi untuk memberikan garis bawah pada bagian tertentu, seperti tautan pent
 ### Tag `<br>`
 digunakan untuk membuat baris baru dalam sebuah elemen teks atau konten HTML.
 
-![PARAG](ASETHTML/TAGPARAF.PNG)
+![PARAG](ASETHTML/TAGPARAF.png)
+
 ## Align
  **Align** adalah atribut yang menentukan perataan teks.
  ```html
