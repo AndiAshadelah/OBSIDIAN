@@ -17,7 +17,7 @@
 - Tag pembuka `<head>` berisi informasi tentang halaman HTML sampai dengan tag penutup `</head>` biasanya tag head terdapat tag `<title>` untuk memberikan informasi judul halaman HTML 
 - Apapun tag yang berada di antara tag pembuka `<body>` sampai dengan tag penutup `</body>` akan tampil di browser.
 
-![tampilan](tampilan.png)
+![tampilan](TAMPILAN.png)
 
 # Anatomi Elemen HTML
 Elemen HTML `<a>` digunakan untuk membuat tautan atau hyperlink dalam dokumen HTML. `<a>` dapat digunakan untuk mengarahkan pengguna ke halaman web, dan file.
