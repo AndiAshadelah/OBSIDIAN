@@ -72,8 +72,7 @@ digunakan untuk membuat baris baru dalam sebuah elemen teks atau konten HTML.
 ## Align
  Align adalah atribut yang menentukan perataan teks.
  
- CONTOH: 
-```html 
+ CONTOH:  
 <!DOCTYPE html>
 
 <html>
@@ -81,7 +80,7 @@ digunakan untuk membuat baris baru dalam sebuah elemen teks atau konten HTML.
      <title>ADEL UHUuY</title>
     </head>
     <body>
-       <p align="left">
+       <p align="left"
                 Sultan Hasanuddin yang semakin terdesak akhirnya bersedia berunding dan menghasilkan Perjanjian Bongaya (18 November 1667) yang merugikan Gowa. Dengan demikian, Sultan Hasanuddin mendapatkan julukan "Ayam Jantan dari Timur" karena kegigihan dan usaha kerasnya dalam menghadapi VOC.
             </p>
             <p align="right">
@@ -95,10 +94,9 @@ digunakan untuk membuat baris baru dalam sebuah elemen teks atau konten HTML.
             </p>
     </body>
 </html>
-```
 
 
-### `<p align="left">` 
+### `<p align="left">
 untuk membuat teks rata kiri
 ### `<p align="right">` 
 untuk membuat teks rata kanan
