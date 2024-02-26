@@ -97,7 +97,7 @@ digunakan untuk membuat baris baru dalam sebuah elemen teks atau konten HTML.
 </html>
 ```
 
-### `<p align="left">
+### `<p align="left">`
 untuk membuat teks rata kiri
 ### `<p align="right">` 
 untuk membuat teks rata kanan
